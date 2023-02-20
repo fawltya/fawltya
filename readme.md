@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a website & graphic designer for [The Court House](https://courthousebangor.com/events/)
+- 🔭 I’m currently working as a website & graphic designer for [The Court House](https://courthousebangor.com/)
 - 🏡 I also build websites freelance as [Design Barn](https://designbarn.co.uk/)
 - 🌱 I’m currently studying a front-end web dev course
 - 💃 Help to run Drum & Bass nights with [Crilli DnB](https://linktr.ee/Crillidnb) in Belfast
